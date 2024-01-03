@@ -14,8 +14,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 - ⚡ Fun fact: " I think, i fun "
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/you.can.me.is.TONY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quan nguyen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCz14gudYYubCfNXs-3b3dAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="u coder" height="30" width="40" /></a>
+<a href="https://www.facebook.com/huynh.viet.7771/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quan nguyen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
