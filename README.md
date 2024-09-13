@@ -18,7 +18,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
+![Design Pattern](https://img.shields.io/badge/Design%20Pattern-%23F7DF1E.svg?style=plastic&logo=java&logoColor=white) 
+![Monolithic](https://img.shields.io/badge/Monolithic-%23000F20.svg?style=plastic&logo=java&logoColor=white) 
+![Microservices](https://img.shields.io/badge/Microservices-%2300A3E2.svg?style=plastic&logo=java&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=plastic&logo=apache-kafka&logoColor=white)
 
 ## Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white) 
