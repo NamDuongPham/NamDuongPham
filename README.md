@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Đắc Việt</h1>
-<h3 align="center"> My ambition become a full-stack developer app.</h3>
+<h3 align="center"> I am a fullstack software developer </h3>
 - ⚡ Fun fact: " I think, i fun "
 
 ## 🌐Socials
