@@ -15,9 +15,12 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
+![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white) 
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
+![Neo4J](https://img.shields.io/badge/neo4j-%2300A3E2.svg?style=plastic&logo=neo4j&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
@@ -27,6 +30,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=HDV2k3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
