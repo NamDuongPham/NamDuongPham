@@ -19,16 +19,15 @@
 ## Back-End
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
 ![Monolithic](https://img.shields.io/badge/Monolithic-%23000F20.svg?style=plastic&logo=java&logoColor=white) 
-![NodeJs](https://img.shields.io/badge/nodejs-%23000F20.svg?style=plastic&logo=nodejs&logoColor=white)
-
+![NodeJS](https://img.shields.io/badge/nodejs-%23000F20.svg?style=plastic&logo=nodejs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
 ## Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white) 
 
 ## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![Neo4J](https://img.shields.io/badge/neo4j-%2300A3E2.svg?style=plastic&logo=neo4j&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
@@ -50,15 +49,14 @@
 ![DOCKER HUB](https://img.shields.io/badge/%20DOCKERHUB-%23232F3E.svg?style=plastic&logo=docker-docker&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=HDV2k3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NamDuongPham&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HDV2k3&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HDV2k3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=HDV2k3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ---
