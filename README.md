@@ -48,7 +48,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black)
 
-##DevOps
+## DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
