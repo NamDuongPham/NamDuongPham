@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phạm Nam Dương</h1>
-<h3 align="center"> I am a fullstack software developer </h3>
+<h3 align="center"> I am a web-app developer </h3>
 - ⚡ Fun fact: " I think, i fun "
 
 ## 🌐Socials
