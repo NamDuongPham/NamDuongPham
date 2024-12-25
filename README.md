@@ -22,11 +22,14 @@
 ![NodeJS](https://img.shields.io/badge/nodejs-%23000F20.svg?style=plastic&logo=nodejs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+
 ## Mobile
 ![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=plastic&logo=react&logoColor=%23ffffff)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
@@ -38,25 +41,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black)
 
 ## DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![AWS SES](https://img.shields.io/badge/AWS%20SES-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![DOCKER HUB](https://img.shields.io/badge/%20DOCKERHUB-%23232F3E.svg?style=plastic&logo=docker-docker&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=NamDuongPham&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HDV2k3&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HDV2k3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=HDV2k3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 
 ---
